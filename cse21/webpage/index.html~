@@ -57,7 +57,7 @@ lecture slides">Ted</a></li>
 
 
 <div id="title" class="clearer">
-<iframe src="https://www.google.com/calendar/embed?src=atpdtfldk2s6ufl222ga4uhd00%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=eng.ucsd.edu_vumq6n68f4g8938peaqfeqt2mg%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
 
         <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
@@ -80,15 +80,17 @@ lecture slides">Ted</a></li>
                <tr><td class="tableHeading">Miles Jones</td>
                    <td>Instructor</td><td>jlobue (at) eng.ucsd.edu</td><td>Mon, Wed, Thurs 11-12, CSE 4204</td></tr>
                <tr><td class="tableHeading">Mayank Dhiman</td>
-                   <td>Teaching Assistant</td><td>mdhiman (at) eng.ucsd.edu</td><td>Wed 3-6, CSE B250A</td></tr>
-               <tr><td class="tableHeading">Joseph d'Eon</td>
-                   <td>Tutor and Mentor</td><td> jdeon (at) ucsd.edu</td><td>See Calendar Above</td></tr>
-               <tr><td class="tableHeading">Stephen Gilardi</td>
-                   <td>Tutor and Mentor</td><td>sgilardi (at) ucsd.edu</td><td>See Calendar Above</td></tr>
-               <tr><td class="tableHeading">Timothy Nguyen</td>
-                   <td>Tutor and Mentor</td><td>tin018 (at) ucsd.edu</td><td>See Calendar Above</td></tr>
-               <tr><td class="tableHeading">Pam Woointranon</td>
-                   <td>Tutor and Mentor</td><td>cwoointr (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+                   <td>Teaching Assistant</td><td>mdhiman (at) eng.ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Julia Kapich</td>
+                   <td>Tutor and Mentor</td><td> juc033 (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Soheil Karimi</td>
+                   <td>Tutor and Mentor</td><td>skarimik (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Tommy H Nguyen</td>
+                   <td>Tutor and Mentor</td><td>thn055 (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Anna Raichev</td>
+                   <td>Tutor and Mentor</td><td>araichev (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Jiali (Scarlet) Xie</td>
+                   <td>Tutor and Mentor</td><td>jlxie (at) ucsd.edu</td><td>See Calendar Above</td></tr>
             </tbody></table><!-- End table containing class meeting info -->
 
         <div id="welcomeMsg">
@@ -136,39 +138,35 @@ lecture slides">Ted</a></li>
 	    <p>Course grades will be computed using the following weights.
 		<table><tbody>
 		<tr><td class="tableHeading" colspan="2">Grading</td></tr>
-		<tr><td class="label">Exams</td><td>60%</td></tr>
+		<tr><td class="label">Exams</td><td>70%</td></tr>
 		<tr><td class="label">Homework</td><td>30%</td></tr>
-		<tr><td class="label">Final paper</td><td>10%</td></tr>
 		</tbody></table>
 	    </p>
 
  <p><h8>Exams:</h8> There will be two midterm exams and one final exam. Exams will be given in class, with no make-ups allowed. You may not use calculators or notes.
  The weighting of the exam scores will be <br>
-	<center>MAX ( (Final 30%, First Exam 15%, Second Exam 15%), 
-              (Final 45%, Best Exam 15%)).  		</center></p>
+	<center>MAX ( (Final 40%, First Exam 15%, Second Exam 15%), 
+              (Final 55%, Best Exam 15%)).  		</center></p>
 
 	    <p>You must have a passing score on the final exam (60%) in order to pass the course.</p>
 	<br>
 
- <p><h8>Homework:</h8> There will be seven homework assignments, 
+ <p><h8>Homework:</h8> There will be six homework assignments, 
 which will be crucial to helping  you gain mastery
             of the techniques we will study.  When computing the homework portion of the course grade,
-the lowest of your seven homework scores will be dropped and the average computed using the remaining six assignments. 
-That is, each of your six best homework scores counts for 5% of your grade. </p>
+the lowest of your six homework scores will be dropped and the average computed using the remaining five assignments. 
+That is, each of your five best homework scores counts for 6% of your grade. </p>
 
 <p>Homework should be done individually or in pairs. 
 You are free to change partners at any time. Problems should be solved together, not divided up between partners. 
-Homework solutions should be neatly written or typed and turned in during class.
+Homework solutions should be neatly written or typed and turned in through Gradescope.
 </p>
 
 <p>Students should consult their textbook, class notes, lecture slides, Piazza forum, instructor, TA, and tutors when they need help with homework.
  Students should not look for answers to homework problems in other texts or sources, including the internet.
 </p><br>
 
-	    <p><h8>Final paper:</h8>  
-		The main writing component of this course will be a final paper in which you research a famous problem in computer science and an algorithm that solves the problem. 
-		The final paper will account for 10% of your final grade.
-		</p> <br>
+
 
 
     <p>After your weighted average is calculated, letter grades will be assigned 
@@ -313,14 +311,12 @@ ensure that reasonable accommodations can be arranged. For more information, see
                <tbody><tr class="tableHeading"><td></td><td>Date</td><td>Time</td><td>Location</td></tr>
                <!-- The lecture date, time, and location -->
                <tr><td class="tableHeading">Lecture</td>
-                   <td>Mon, Tu, Th, Fri</td><td>8:30am - 9:50am</td><td>WLH 2207</td></tr>
+                   <td>Mon, Tu, Th, Fri</td><td>8:30am - 9:50am</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
                <tr><td class="tableHeading">Discussion Section</td>
-                   <td>Mon, Th</td><td>10:00am - 10:50am</td><td>WLH 2207</td></tr>
+                   <td>Mon, Th</td><td>10:00am - 10:50am</td><td>CSE 4258</td></tr>
                <!-- The discussion date, time, and location -->
-               <tr><td class="tableHeading">Student Presentations</td>
-                   <td>Wed</td><td>8:30am - 9:50am</td><td>WLH 2207</td></tr>
                <tr><td class="tableHeading">Optional Study Sessions with Tutors</td>
-                   <td>See Calendar</td><td>7 - 9pm</td><td>CSE 4140</td></tr>
+                   <td>See Calendar</td><td>7 - 9pm</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
             </tbody></table><!-- End table containing class meeting info -->
 
 
@@ -367,19 +363,12 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Linear and binary search. Counting comparisons. Using loop invariants to prove algorithms correct. </td>
 		     <td> Rosen 1.9, 3.1, <br> JS 4.1 </td>
-                     <td class="it">HW 1 due (pre-test, disciplinary autobiography)</td>
+                     <td></td>
                 </tr>
 
                 <tr>
                      <!-- Third Meeting -->
-                     <td class="bold">8/5/15</td>
-                     <td>Wed</td>
-                     <td>Workshop on loop invariants and induction. </td>
-		     <td> Rosen 4.1, 4.2 </td>
-                     <td class="it"></td>
-                </tr>
-
-                <tr class="odd">
+                 
                      <!-- Fourth Meeting -->
                      <td class="bold">8/6/15</td>
                      <td>Thur</td>
@@ -394,7 +383,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Fri</td>
                      <td>Time analysis of sorting and searching algorithms. </td>
 		     <td> Rosen 3.3 </td>
-                     <td class="it">HW 2 due (sorting, searching, loop invariants).</td>
+                     <td class="it">HW 1 due (sorting, searching, loop invariants).</td>
                 </tr>
 
                 <!-----------------------------------Week 2------------------>
@@ -412,19 +401,12 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Divide and conquer, including mergesort and multiplication. </td>
 		     <td>Rosen 4.4, 6.3 before Thm 1 <br> JS 7.1, 7.2 </td>
-                     <td class="it">HW 3 due (asymptotic notation, algorithm analysis).</td>
+                     <td class="it">HW 2 due (asymptotic notation, algorithm analysis).</td>
                 </tr>
 
                 <tr class="odd">
                      <!-- Third Meeting -->
-                     <td class="bold">8/12/15</td>
-                     <td>Wed</td>
-                     <td>Review the practice midterm with tutors and TAs. </td>
-		     <td> </td>
-                     <td class="it"></td>
-                </tr>
-
-                <tr>
+               
                      <!-- Fourth Meeting -->
                      <td class="bold">8/13/15</td>
                      <td>Thur</td>
@@ -450,7 +432,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Euler and Hamilton tours.</td>
 		     <td>Rosen 8.2, 8.3, 8.5 through Ex. 7 <br> JS 5.2 </td>
-                     <td class="it">HW 4 due (recursion).</td>
+                     <td class="it"></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -458,17 +440,10 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>DAGs and topological orderings. Graph search and reachability. </td>
 		     <td>Rosen 8.4 through Thm 1 </td>
-                     <td class="it"></td>
+                     <td class="it">HW 3 due (recursion).</td>
                 </tr>
 
-                <tr>
-                     <!-- Third Meeting -->
-                     <td class="bold">8/19/15</td>
-                     <td>Wed</td>
-                     <td>Halfway celebration! </td>
-		     		 <td> </td>
-                     <td class="it"></td>
-                </tr>
+            
 
                 <tr class="odd">
                      <!-- Fourth Meeting -->
@@ -485,7 +460,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Fri</td>
                      <td>Intro to counting. Sum and product rules. Inclusion-exclusion.  </td>
 		     <td>Rosen 5.1, 5.3, 6.5 <br> JS 2.3</td>
-                     <td class="it">HW 5 due (graphs). </td>
+                     <td class="it">HW 4 due (graphs). </td>
                 </tr>
 
 
@@ -504,17 +479,10 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Fixed density binary strings.  </td>
 		     <td> </td>
-                     <td class="it">First draft of final paper due.</td>
+                     <td class="it">HW 5 due</td>
                 </tr>
 
-                <tr class="odd">
-                     <!-- Third Meeting -->
-                     <td class="bold">8/26/15</td>
-                     <td>Wed</td>
-                     <td>Review the practice midterm with tutors and TAs. </td>
-        		 <td> </td>
-                     <td class="it">HW 6 due (DAGs, trees, counting). </td>
-                </tr>
+          
 
                 <tr>
                      <!-- Fourth Meeting -->
@@ -550,17 +518,10 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Variance and concentration. </td>
 		     		 <td> </td>
-                     <td class="it"> Final paper due.</td>
+                     <td class="it"> HW 6 due</td>
                 </tr>
 
-                <tr>
-                     <!-- Third Meeting -->
-                     <td class="bold">9/2/15</td>
-                     <td>Wed</td>
-                     <td>Presentations on HWs 6 and 7. </td>
-		     		 <td> </td>
-                     <td class="it"> HW 7 due (counting, probability).</td>
-                </tr>
+              
 
                 <tr class="odd">
                      <!-- Fourth Meeting -->
