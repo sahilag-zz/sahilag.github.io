@@ -1,0 +1,567 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+   <head>
+
+     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+     <meta charset="utf-8">
+     <title>CSE21 - Discrete Mathematics for Computer Science</title>
+     <link href="style.css" rel="stylesheet" type="text/css">
+   </head>
+   <body>
+     <!-- This "container" controls the flow of the layout -->
+     <div id="container">
+        <a name="top"><h1 class="heading">CSE21</h1></a>
+        <h2 class="heading">Discrete Mathematics for Computer Science</h2>
+		
+		
+		
+		
+        <!-- ***********************************************************************
+         *                          MAIN MENU 
+         * -------------------------------------------------------------------------
+         * Notes: 1. To add a new menu item add:
+         *           <li><a href="menuItemLink">Menu Item Name</a></li>
+         *           after the last menu item in the list.
+         *        2. If you've made a new announcement and you want the menu to 
+         *           reflect that, replace 
+         *           <li><a href="#announcements">Anouncements</a></li>
+         *           with 
+         *           <li class="new"><a href=#announcements">Announcements</a></li>
+         *************************************************************************-->
+        <ul id="nav">
+           <li><a href="#syllabus">Syllabus</a></li>
+           <li><a href="https://www.gradescope.com/" target="_blank" title="Upload homework and view grades">Gradescope</a></li>
+           <li><a href="https://piazza.com/class/ir5eixpr38776x" target="_blank" title="Discussion forum for Q&A">Piazza</a></li>
+           <li><a href="#textbook">Textbook</a></li>
+           <li><a href="#schedule">Class Schedule</a></li>
+        </ul><!-- End nav unordered list -->
+
+		
+		
+		
+        <!-- ***********************************************************************
+         *                          LAST MODIFIED
+         * -------------------------------------------------------------------------
+         * Notes: 1. None
+         *************************************************************************-->
+ 	<!--       <p class="lastMod">Last Modified: 7/28/15</p>		-->
+
+
+        <!-- ***********************************************************************
+         *                          CALENDAR LINK
+         * -------------------------------------------------------------------------
+         * Notes: 1. None
+         *************************************************************************-->
+
+
+<div id="title" class="clearer">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=eng.ucsd.edu_vumq6n68f4g8938peaqfeqt2mg%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<br>
+
+        <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br><br>
+</div>
+
+
+        <!-- ***********************************************************************
+         *                          INSTRUCTOR INFROMATION
+         * -------------------------------------------------------------------------
+         * Notes: 1. This section contains information about how to contact the 
+         *           Professor. 
+         *************************************************************************-->
+		<div id="instructor1">
+	        <h3>Office Hours and Contact Information</h3>
+		</div>
+
+            <table class="bordered">
+               <tbody><tr class="tableHeading"><td>Name</td><td>Role</td><td>Email</td><td>Office Hours and Study Sessions</td></tr>
+               <tr><td class="tableHeading">Miles Jones</td>
+                   <td>Instructor</td><td>mej016 (at) eng.ucsd.edu</td><td>Mon, Thurs 11-12, CSE 4208</td></tr>
+               <tr><td class="tableHeading">Sahil Agarwal</td>
+                   <td>Teaching Assistant</td><td>saa034 (at) eng.ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Julia Kapich</td>
+                   <td>Tutor and Mentor</td><td> juc033 (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Soheil Karimi</td>
+                   <td>Tutor and Mentor</td><td>skarimik (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Tommy H Nguyen</td>
+                   <td>Tutor and Mentor</td><td>thn055 (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Anna Raichev</td>
+                   <td>Tutor and Mentor</td><td>araichev (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+               <tr><td class="tableHeading">Jiali (Scarlet) Xie</td>
+                   <td>Tutor and Mentor</td><td>jlxie (at) ucsd.edu</td><td>See Calendar Above</td></tr>
+            </tbody></table><!-- End table containing class meeting info -->
+
+        <div id="welcomeMsg">
+	<p>We will be communicating with you and making announcements through an online question and answer 
+	platform called 
+        <a href="https://piazza.com/class/icpofa59gxv365" target="_blank" title="Discussion forum for Q&A">Piazza</a>.
+	We ask that when you have a question about the class that might be relevant to other students, 
+	you post your question on Piazza instead of emailing us. That way, everyone can benefit from the response.
+	You should not post about graded homework questions on Piazza. The best way for us to answer homework questions is in office hours.
+	</p>
+
+        <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br>
+
+</div>
+
+	<!-- ***********************************************************************
+         *                    CLASS INFORMATION
+         * -------------------------------------------------------------------------
+         * Notes: 1. This section includes: 
+         *          I.   Welcome Message
+         *          II.  Course Description
+         *          III. Learning goals
+	 *	    IV.  Grading 
+         *          V.  Regrades and accommodations.
+         *          VI.   Academic Integrity
+         *        2. Do not delete the <br/><br/> when editing the text!
+         *************************************************************************-->
+        <div id="welcomeMsg">
+             <a name="syllabus"><h3>Welcome Message</h3></a>
+             <p>Welcome to CSE21! This course is intended to introduce you to the broad field of algorithms and give you the mathematical tools needed to study algorithms and their efficiency. We will learn about sorting and searching, asymptotics, recursion, graphs, enumeration, data representation, and discrete probability. Understanding these topics and being able to work out related problems will be essential to your work as a computer scientist.</p>
+
+
+			
+            <!-- Course Description -->
+            <h4>Course Description: </h4>
+            <p>Please click <a href="http://www-cse.ucsd.edu/CSE21">here</a>
+            for a course description as given in the undergraduate course listing.</p><br><br>
+			
+
+           	
+	
+            <!-- Grading -->
+            <h4>Grading: </h4>
+	    <p>Course grades will be computed using the following weights.
+		<table><tbody>
+		<tr><td class="tableHeading" colspan="2">Grading</td></tr>
+		<tr><td class="label">Exams</td><td>70%</td></tr>
+		<tr><td class="label">Homework</td><td>30%</td></tr>
+		</tbody></table>
+	    </p>
+
+ <p><h8>Exams:</h8> There will be two midterm exams and one final exam. Exams will be given in class, with no make-ups allowed. You may not use calculators or notes.
+ The weighting of the exam scores will be <br>
+	<center>MAX ( (Final 40%, First Exam 15%, Second Exam 15%), 
+              (Final 55%, Best Exam 15%)).  		</center></p>
+
+	    <p>You must have a passing score on the final exam (60%) in order to pass the course.</p>
+	<br>
+
+ <p><h8>Homework:</h8> There will be seven homework assignments, 
+which will be crucial to helping  you gain mastery
+            of the techniques we will study.  When computing the homework portion of the course grade,
+the lowest of your seven homework scores will be dropped and the average computed using the remaining six assignments. 
+That is, each of your six best homework scores counts for 5% of your grade. </p>
+
+<p>Homework should be done individually or in pairs. 
+You are free to change partners at any time. Problems should be solved together, not divided up between partners. 
+Homework solutions should be neatly written or typed and turned in through Gradescope.
+</p>
+
+<p>Students should consult their textbook, class notes, lecture slides, Piazza forum, instructor, TA, and tutors when they need help with homework.
+ Students should not look for answers to homework problems in other texts or sources, including the internet.
+</p><br>
+
+
+
+
+    <p>After your weighted average is calculated, letter grades will be assigned 
+based on the following curved grading scale:
+<br>
+<br>
+<center>        
+<table border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td><b>A+</b></td>
+<td><b>A</b></td>
+<td><b>A-</b></td>
+<td><b>B+</b></td>
+<td><b>B</b></td>
+<td><b>B-</b></td>
+<td><b>C+</b></td>
+<td><b>C</b></td>
+<td><b>C-</b></td>
+</tr>
+<tr>
+<td><b>96</b></td>
+<td><b>92</b></td>
+<td><b>88</b></td>
+<td><b>84</b></td>
+<td><b>80</b></td>
+<td><b>76</b></td>
+<td><b>72</b></td>
+<td><b>68</b></td>
+<td><b>64</b></td>
+</tr>
+</tbody>
+</table>
+</center>
+
+<br>
+
+In addition, you must pass the final exam with at least a 60% in order to pass the course.
+</p>
+
+			
+            <!-- Regrades and Accommodation Information -->
+ <p><h4>Standards for evaluation:</h4>
+            Your assignments in this class will be evaluated not only on the correctness of your answers, but on your ability to present your ideas clearly and logically. You should always explain how you arrived at your conclusions, using mathematically sound reasoning. Whether you use formal proof techniques or write a more informal argument for why something is true, your answers should always be well-supported. Your goal should be to convince the reader that your results and methods are sound.</p>
+<br>
+
+            <p><h4>Regrades:</h4> 
+	Please be prompt (less than three days) in reporting to your TA any errors in the grading of your work, or in the recording of your grade. 
+	All grades become permanent three days after they are recorded.
+	 Regrade requests for homework assignments must be made on Gradescope. 
+	For exams, requests for regrades should be made immediatley by returning your exam on the day you get it back, before ever leaving the room with your exam.</p>
+<br>
+
+            
+            <p><h4>Academic Integrity:</h4>
+            The Jacobs School of Engineering code of Academic Integrity is 
+            <a href="http://maeweb.ucsd.edu/undergrad/courses/integrity" target="_blank">here</a>. 
+	    You should make yourself aware of what is and is not acceptable by reading this document. Academic integrity violations will be taken seriously and reported immediately. Ignorance of the rules will not excuse you from any violations.
+		Key facts about academic integrity related to CSE21:
+		<ul>
+			<li>Do not discuss homework problems with people besides your homework partner (except during office hours, with the
+instructional team).</li>
+			<li>Do not share written solutions or partial solutions with other groups.</li>
+			<li>Prepare your final written solution without consulting any written material except class notes
+and the class text.</li>
+		</ul>
+	    </p>
+
+            <p><h4>Accommodations:</h4>
+Students requesting accommodations for this course due to a disability must 
+provide a current Authorization for Accommodation (AFA) letter issued by the 
+Office for Students with Disabilities (OSD). 
+If you have an AFA letter, please schedule an appointment with your 
+instructor within the first three days of class to 
+ensure that reasonable accommodations can be arranged. For more information, see 
+<a href="http://disabilities.ucsd.edu" target="_blank">here</a>. 
+</p>
+
+
+        <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br>
+        </div>
+		
+		
+
+	   
+	   
+
+	   
+        <!-- ***********************************************************************
+         *                    TEXTBOOK
+         * -------------------------------------------------------------------------
+         * Notes: 1. None
+         *************************************************************************-->
+        <div id="middle" class="clearer">
+           <a name="textbook"><h3>Textbook</h3></a>
+           <p>The textbook for this course is 
+
+
+<br>
+<center><b>Kenneth Rosen</b> &nbsp; 
+<i>Discrete Mathematics and its Applications, Kenneth Rosen, McGraw Hill, 6th edition. </i> </center>
+</p>
+<br>
+	<p>All textbooks and course materials will be provided to the students free of charge on the opening day (August 2, 2015). </p>
+<br>
+	<p>The texbook's companion website has extra practice problems and resources. In particular, the Self Assessments and the Extra Examples for each chapter are great practice materials. 
+	Access the companion website <a href="http://highered.mheducation.com/sites/0073383090/student_view0/index.html" target="blank"> here.</a></p>
+<br>
+	<p>You may also wish to look at the following textbook as a supplementary resource.
+	
+<br>
+<center><b>Jenkyns, Stephenson</b> &nbsp; 
+<i>Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer</i> </center>
+</p>
+<br>
+	<p>The full pdf of this book is available for free download from a UCSD internet connection at:</p>
+           <ul>
+              <li><a href="http://link.springer.com/book/10.1007%2F978-1-4471-4069-6" target="_blank">http://link.springer.com/book/10.1007%2F978-1-4471-4069-6</a></li>
+           </ul>
+
+        <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br>
+        </div>
+	   
+	  
+		
+        <!-- ***********************************************************************
+         *                 CLASS MEETINGS
+         * -------------------------------------------------------------------------
+         * Notes: 1. The class bordered adds a border around the table, if you don't
+         *           like it replace <table class="bordered"> with <table>
+         *        2. When editing the headings, be careful not to accidentally 
+         *           delete a <td> or a </td> tag!
+         *************************************************************************-->
+        <div id="middle" class="clearer">
+
+
+            <!-- Class Meeting Information-->
+            <h3>Class Meetings</h3>
+            <table class="bordered">
+               <tbody><tr class="tableHeading"><td></td><td>Date</td><td>Time</td><td>Location</td></tr>
+               <!-- The lecture date, time, and location -->
+               <tr><td class="tableHeading">Lecture</td>
+                   <td>Mon, Tu, Th, Fri</td><td>8:30am - 9:50am</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
+               <tr><td class="tableHeading">Discussion Section</td>
+                   <td>Mon, Th</td><td>10:00am - 10:50am</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
+                  <tr><td class="tableHeading">Problem Solving Sessions</td>
+                   <td>Tu, Fr</td><td>10:00am - 10:50am</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
+               <!-- The discussion date, time, and location -->
+               <tr><td class="tableHeading">Optional Study Sessions with Tutors</td>
+                   <td>See Calendar</td><td>7 - 9pm</td><td>CSE 4258 (first week), CSE 4140 (remaining weeks)</td></tr>
+            </tbody></table><!-- End table containing class meeting info -->
+
+
+        <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br>
+
+        </div>
+ 
+	   
+	   
+        <!-- ***********************************************************************
+         *                    SCHEDULE
+         * -------------------------------------------------------------------------
+         * Notes: 1. The schedule is broken into weeks, and each week is 
+         *           composed of two days. Every odd day will be displayed as a 
+         *           darker gray. To edit the schedule, simply find the week you 
+         *           want to edit, and change the information. To add a new week,
+         *           copy the information for any of the weeks and paste it
+         *           in between the <table></table> tags.
+         *************************************************************************-->
+        <div id="middle" class="clearer">
+            <a name="schedule"><h3>Schedule</h3></a>
+
+            <p>NOTE: This schedule is subject to change.</p>
+
+
+ <table>
+                <!-- This is the table heading. When editing watch the <td> and </td> tags closely -->
+                <tbody><tr class="tableHeading"><td>Date</td><td>Day</td><td>Subject</td><td>Reference</td><td>Links and Due Dates</td></tr>
+				
+		
+                <!-----------------------------------Week 1------------------>
+                <tr>
+                     <!-- First Meeting -->
+                     <td class="bold">8/3/15</td>
+                     <td>Mon</td>
+                     <td>Sorting algorithms. Counting comparisons. Using loop invariants to prove algorithms correct.</td>
+		     <td> Rosen 1.9, 3.1, <br> JS 4.3</td>
+                     <td class="it"><a href="lectures/day1_S216.pptx">Lecture 1</a><a href="hw/HW1_S216.pdf">HW 1</a> </td>
+                </tr>
+                <tr class="odd">
+                     <!-- Second Meeting -->
+                     <td class="bold">8/4/15</td>
+                     <td>Tues</td>
+                     <td>Linear and binary search. Counting comparisons. Using loop invariants to prove algorithms correct. </td>
+		     <td> Rosen 1.9, 3.1, <br> JS 4.1 </td>
+                     <td class="it">HW 1 due </td>
+                </tr>
+
+                <tr>
+                     <!-- Third Meeting -->
+                 
+                     <!-- Fourth Meeting -->
+                     <td class="bold">8/6/15</td>
+                     <td>Thur</td>
+                     <td>Asymptotic notation. The need for order notation.</td>
+		     <td> Rosen 3.2</td>
+                     <td class="it"></td>
+                </tr>
+
+                <tr>
+                     <!-- Fifth Meeting -->
+                     <td class="bold">8/7/15</td>
+                     <td>Fri</td>
+                     <td>Time analysis of sorting and searching algorithms. </td>
+		     <td> Rosen 3.3 </td>
+                     <td class="it">HW 2 due (sorting, searching, loop invariants).</td>
+                </tr>
+
+                <!-----------------------------------Week 2------------------>
+                 <tr class="odd">
+                     <!-- First Meeting -->
+                     <td class="bold">8/10/15</td>
+                     <td>Mon</td>
+                     <td>Intro to recursion. Correctness and time analysis of recursive algorithms.</td>
+		     <td>Rosen 4.3, 6.1, <br> JS 2.4.1 </td>
+                     <td class="it"></td>
+                </tr>
+                <tr>
+                     <!-- Second Meeting -->
+                     <td class="bold">8/11/15</td>
+                     <td>Tues</td>
+                     <td>Divide and conquer, including mergesort and multiplication. </td>
+		     <td>Rosen 4.4, 6.3 before Thm 1 <br> JS 7.1, 7.2 </td>
+                     <td class="it">HW 3 due (asymptotic notation, algorithm analysis).</td>
+                </tr>
+
+                <tr class="odd">
+                     <!-- Third Meeting -->
+               
+                     <!-- Fourth Meeting -->
+                     <td class="bold">8/13/15</td>
+                     <td>Thur</td>
+                     <td>Solving puzzles with graphs.</td>
+		     <td>Rosen 8.1, JS 5.1 </td>
+                     <td class="it"></td>
+                </tr>
+
+                <tr class="odd">
+                     <!-- Fifth Meeting -->
+                     <td class="bold">8/14/15</td>
+                     <td>Fri</td>
+                     <td>First exam. </td>
+		     		 <td> </td>
+                     <td class="it">Exam today, covers everything before graphs.</td>
+                </tr>
+
+
+               <!-----------------------------------Week 3------------------>
+                 <tr>
+                     <!-- First Meeting -->
+                     <td class="bold">8/17/15</td>
+                     <td>Mon</td>
+                     <td>Euler and Hamilton tours.</td>
+		     <td>Rosen 8.2, 8.3, 8.5 through Ex. 7 <br> JS 5.2 </td>
+                     <td class="it"></td>
+                </tr>
+                <tr class="odd">
+                     <!-- Second Meeting -->
+                     <td class="bold">8/18/15</td>
+                     <td>Tues</td>
+                     <td>DAGs and topological orderings. Graph search and reachability. </td>
+		     <td>Rosen 8.4 through Thm 1 </td>
+                     <td class="it">HW 4 due (recursion).</td>
+                </tr>
+
+            
+
+                <tr class="odd">
+                     <!-- Fourth Meeting -->
+                     <td class="bold">8/20/15</td>
+                     <td>Thur</td>
+                     <td>Trees.</td>
+		     <td>Rosen 9.1, 9.2 though Thm 2 <br> JS 5.5.1 </td>
+                     <td class="it"></td>
+                </tr>
+
+                <tr>
+                     <!-- Fifth Meeting -->
+                     <td class="bold">8/21/15</td>
+                     <td>Fri</td>
+                     <td>Intro to counting. Sum and product rules. Inclusion-exclusion.  </td>
+		     <td>Rosen 5.1, 5.3, 6.5 <br> JS 2.3</td>
+                     <td class="it">HW 5 due (graphs). </td>
+                </tr>
+
+
+                 <!-----------------------------------Week 4------------------>
+                 <tr class="odd">
+                     <!-- First Meeting -->
+                     <td class="bold">8/24/15</td>
+                     <td>Mon</td>
+                     <td>Binomial coefficients. Encoding and decoding.</td>
+		     <td>Rosen 5.4, 5.5 </td>
+                     <td class="it"></td>
+                </tr>
+                <tr>
+                     <!-- Second Meeting -->
+                     <td class="bold">8/25/15</td>
+                     <td>Tues</td>
+                     <td>Fixed density binary strings.  </td>
+		     <td> </td>
+                     <td class="it">HW 6 due</td>
+                </tr>
+
+          
+
+                <tr>
+                     <!-- Fourth Meeting -->
+                     <td class="bold">8/27/15</td>
+                     <td>Thur</td>
+                     <td>Applying counting to graphs and sorting.</td>
+		     <td>JS 4.4 </td>
+                     <td class="it"></td>
+                </tr>
+
+                <tr class="odd">
+                     <!-- Fifth Meeting -->
+                     <td class="bold">8/28/15</td>
+                     <td>Fri</td>
+                     <td>Second exam. </td>
+		     		 <td> </td>
+                     <td class="it">Exam today, covers graphs and counting.</td>
+                </tr>
+
+
+                <!-----------------------------------Week 5------------------>
+                 <tr>
+                     <!-- First Meeting -->
+                     <td class="bold">8/31/15</td>
+                     <td>Mon</td>
+                     <td>Intro to probability. Expected value.</td>
+		     		 <td> </td>
+                     <td class="it"></td>
+                </tr>
+                <tr class="odd">
+                     <!-- Second Meeting -->
+                     <td class="bold">9/1/15</td>
+                     <td>Tues</td>
+                     <td>Variance and concentration. </td>
+		     		 <td> </td>
+                     <td class="it"> HW 7 due</td>
+                </tr>
+
+              
+
+                <tr class="odd">
+                     <!-- Fourth Meeting -->
+                     <td class="bold">9/3/15</td>
+                     <td>Thur</td>
+                     <td>Randomized algorithms. </td>
+		     		 <td> </td>
+                     <td class="it"></td>
+                </tr>
+
+                <tr>
+                     <!-- Fifth Meeting -->
+                     <td class="bold">9/4/15</td>
+                     <td>Fri</td>
+                     <td>Final exam.  </td>
+		     		 <td> </td>
+                     <td class="it">Final exam today. </td>
+                </tr>
+
+</tbody></table>
+       <p class="toTop"><a href="#top">Top</a></p><!-- Takes you back to the top of the page -->
+	<br>
+       </div>
+
+	   
+	   
+	   
+        <!-- ***********************************************************************
+         *                      FOOTER
+         * -------------------------------------------------------------------------
+         * Notes: 1. None
+         *************************************************************************-->	
+         <ul id="footer">
+            <li><a href="http://www.cs.ucsd.edu/">Computer Science and Engineering Department at UCSD</a></li>
+            <li><a href="http://www.jacobsschool.ucsd.edu/">Jacobs School of Engineering</a></li>
+            <li><a href="http://www.ucsd.edu/">UCSD</a></li>
+         </ul>		 
+
+     </div><!-- End container div -->
+  </body>
+</html>
+
