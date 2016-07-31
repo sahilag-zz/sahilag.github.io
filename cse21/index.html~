@@ -346,7 +346,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 
  <table>
                 <!-- This is the table heading. When editing watch the <td> and </td> tags closely -->
-                <tbody><tr class="tableHeading"><td>Date</td><td>Day</td><td>Subject</td><td>Reference</td><td>Links and Due Dates</td></tr>
+                <tbody><tr class="tableHeading"><td>Date</td><td>Day</td><td>Subject</td><td>Reference</td><td>Lecture slides, HW and Due Dates</td></tr>
 				
 		
                 <!-----------------------------------Week 1------------------>
@@ -356,7 +356,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Sorting algorithms. Counting comparisons. Using loop invariants to prove algorithms correct.</td>
 		     <td> Rosen 1.9, 3.1, <br> JS 4.3</td>
-                     <td class="it"><a href="lectures/day1_S216.pptx">Lecture 1</a><a href="hw/HW1_S216.pdf">HW 1</a> </td>
+                     <td class="it"><a href="lectures/day1_S216.pptx">Lecture 1</a><br><a href="hw/HW1_S216.pdf">HW 1</a> </td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -378,7 +378,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td class="it"></td>
                 </tr>
 
-                <tr>
+                <tr class="odd">
                      <!-- Fifth Meeting -->
                      <td class="bold">8/7/15</td>
                      <td>Fri</td>
@@ -388,7 +388,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                 </tr>
 
                 <!-----------------------------------Week 2------------------>
-                 <tr class="odd">
+                 <tr>
                      <!-- First Meeting -->
                      <td class="bold">8/10/15</td>
                      <td>Mon</td>
@@ -396,7 +396,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 		     <td>Rosen 4.3, 6.1, <br> JS 2.4.1 </td>
                      <td class="it"></td>
                 </tr>
-                <tr>
+                <tr class="odd">
                      <!-- Second Meeting -->
                      <td class="bold">8/11/15</td>
                      <td>Tues</td>
@@ -446,7 +446,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 
             
 
-                <tr class="odd">
+                <tr>
                      <!-- Fourth Meeting -->
                      <td class="bold">8/20/15</td>
                      <td>Thur</td>
@@ -455,7 +455,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td class="it"></td>
                 </tr>
 
-                <tr>
+                <tr class="odd">
                      <!-- Fifth Meeting -->
                      <td class="bold">8/21/15</td>
                      <td>Fri</td>
@@ -466,7 +466,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 
 
                  <!-----------------------------------Week 4------------------>
-                 <tr class="odd">
+                 <tr>
                      <!-- First Meeting -->
                      <td class="bold">8/24/15</td>
                      <td>Mon</td>
@@ -474,7 +474,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 		     <td>Rosen 5.4, 5.5 </td>
                      <td class="it"></td>
                 </tr>
-                <tr>
+                <tr class="odd">
                      <!-- Second Meeting -->
                      <td class="bold">8/25/15</td>
                      <td>Tues</td>
@@ -524,7 +524,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 
               
 
-                <tr class="odd">
+                <tr>
                      <!-- Fourth Meeting -->
                      <td class="bold">9/3/15</td>
                      <td>Thur</td>
@@ -533,7 +533,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td class="it"></td>
                 </tr>
 
-                <tr>
+                <tr class="odd">
                      <!-- Fifth Meeting -->
                      <td class="bold">9/4/15</td>
                      <td>Fri</td>
