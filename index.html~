@@ -21,7 +21,7 @@
 	</address>	
 	
 	</header>
-<!--	<nav>
+	<nav>
 		London<br>
 		Paris<br>
 		Tokyo
@@ -40,7 +40,6 @@
 
 	<p> I am currently interested in Cryptography (self-proclaimed expert). I found it to be a perfect blend of mathematics, cool algorithmic stuff and apparent usefulness. Of course, I am just getting started.</p>	
 	</section>
--->
 	<!--<script>
 	  function myFunction() {
 	    var x = document.lastModified;
