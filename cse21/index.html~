@@ -77,7 +77,7 @@
             <table class="bordered">
                <tbody><tr class="tableHeading"><td>Name</td><td>Role</td><td>Email</td><td>Office Hours and Study Sessions</td></tr>
                <tr><td class="tableHeading">Miles Jones</td>
-                   <td>Instructor</td><td>mej016 (at) eng.ucsd.edu</td><td>Mon, Thurs 11-12, CSE 4208</td></tr>
+                   <td>Instructor</td><td>mej016 (at) eng.ucsd.edu</td><td>Mon, Wed 11-12, CSE 4208</td></tr>
                <tr><td class="tableHeading">Sahil Agarwal</td>
                    <td>Teaching Assistant</td><td>saa034 (at) eng.ucsd.edu</td><td>See Calendar Above</td></tr>
                <tr><td class="tableHeading">Julia Kapich</td>
@@ -356,7 +356,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Sorting algorithms. Counting comparisons. Using loop invariants to prove algorithms correct.</td>
 		     <td> Rosen 1.9, 3.1, <br> JS 4.3</td>
-                     <td class="it"><a href="lectures/day1_S216.pptx">Lecture 1</a><br><a href="hw/HW1_S216.pdf">HW 1</a> </td>
+                     <td class="it"><a href="lectures/day_1_S216.annotated.pdf">Lecture 1</a><br><a href="hw/HW1_S216.pdf">HW 1</a> </td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -364,7 +364,9 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Linear and binary search. Counting comparisons. Using loop invariants to prove algorithms correct. </td>
 		     <td> Rosen 1.9, 3.1, <br> JS 4.1 </td>
-                     <td class="it">HW 1 due </td>
+                     <td class="it"><a href="lectures/day2_S216\ -\ Annotated.pdf">Lecture 2</a><br>
+                     HW 1 due <br>
+                     <a href="hw/HW2_S216.pdf">HW 2</a></td>
                 </tr>
 
                 <tr>
