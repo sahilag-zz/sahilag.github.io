@@ -26,8 +26,8 @@
 	<ul>
 	<li>Current: Discrete Math (CSE 21) [<a href="https://sahilag.github.io/cse21/">Link</a>]
 	<li>Summer 2016: Intro to Artificial Intelligence (CSE 150) [<a href="https://cseweb.ucsd.edu/classes/su16/cse150-a/">Link</a>]
-	<li>Spring 2016: Design and Analysis of Algorithms (CSE 101) [Evaluation <a href="TAreviews/sp16_1.pdf">1</a>, <a href="TAreviews/sp16_2.pdf">2</a>]
-	<li>Winter 2016: Design and Analysis of Algorithms (CSE 101) [<a href="http://vlsicad.ucsd.edu/courses/cse101-w16/">Link</a>][<a href="TAreviews/w16.pdf">Evaluation</a>]
+	<li>Spring 2016: Design and Analysis of Algorithms (CSE 101) 
+	<li>Winter 2016: Design and Analysis of Algorithms (CSE 101) [<a href="http://vlsicad.ucsd.edu/courses/cse101-w16/">Link</a>]
 	</ul>
 	</section>
 <!--	<nav>
@@ -47,7 +47,7 @@
 
 	<h3>Serious research stuff</h3>
 
-	<p> I am currently interested in Cryptography (self-proclaimed expert). I found it to be a perfect blend of mathematics, cool algorithmic stuff and apparent usefulness. Of course, I am just getting started.</p>	
+	<p> I am currently interested in Cryptography (self-proclaimed expert). I found it to be a perfect blend of mathematics, cool algorithmic stuff and apparent usefulness. Of course, I am just getting started.</p>
 	</section>
 -->
 	<!--<script>
