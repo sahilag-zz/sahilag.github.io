@@ -388,7 +388,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Fri</td>
                      <td>Time analysis of sorting and searching algorithms. </td>
 		     <td> Rosen 3.3 </td>
-                     <td class="it"><a href="lectures/day4_S216_annotated.pdf">Lecture 3</a><br>
+                     <td class="it"><a href="lectures/day4_S216_annotated.pdf">Lecture 4</a><br>
                      HW 2 due (sorting, searching, loop invariants).</td>
                 </tr>
 
@@ -399,7 +399,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Intro to recursion. Correctness and time analysis of recursive algorithms.</td>
 		     <td>Rosen 4.3, 6.1, <br> JS 2.4.1 </td>
-                     <td class="it"></td>
+                     <td class="it"><a href="lectures/day5_S216_annotated.pdf">Lecture 5</a></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
