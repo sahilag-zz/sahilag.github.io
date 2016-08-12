@@ -420,7 +420,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Thur</td>
                      <td>Solving puzzles with graphs.</td>
 		     <td>Rosen 8.1, JS 5.1 </td>
-                     <td class="it"><!--<a href="lectures/day7_S216annotated.pptx">Lecture 7</a>--></td>
+                     <td class="it"><a href="lectures/day7_S216annotated.pdf">Lecture 7</a></td>
                 </tr>
 
                 <tr class="odd">
@@ -431,7 +431,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 		     		 <td> </td>
                      <td class="it">Exam today, covers everything before graphs.<br>
                      <a href="exams/PracticeMid1_S216.pdf">Practice midterm</a><br>
-                     <a href="exams/PracticeMid1_S216.pdf">Solutions</a>
+                     <a href="exams/PracticeMid1Solutions_S216.pdf">Solutions</a>
                      </td>
                 </tr>
 
@@ -443,7 +443,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Euler and Hamilton tours.</td>
 		     <td>Rosen 8.2, 8.3, 8.5 through Ex. 7 <br> JS 5.2 </td>
-                     <td class="it"></td>
+                     <td class="it"><a href="lectures/day8_S216.pdf">Lecture 8</a></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
