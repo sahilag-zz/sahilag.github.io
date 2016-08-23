@@ -444,7 +444,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Euler and Hamilton tours.</td>
 		     <td>Rosen 8.2, 8.3, 8.5 through Ex. 7 <br> JS 5.2 </td>
                      <td class="it"><a href="lectures/day8_S216_annotated.pptx">Lecture 8</a><br>
-                     <a href="hw/HW4_S216.pdf">HW 4</a></td>
+                     <a href="hw/HW4_S216.pdf">HW 4</a><br><a href="hw/HW4Solutions_S216.pdf">HW 4 solutions</a></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -454,7 +454,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
 		     <td>Rosen 8.4 through Thm 1 </td>
                      <td class="it">HW 4 due (graphs).<br>
                      <a href="lectures/day9_S216annotated.pdf">Lecture 9</a><br>
-                     <a href="hw/HW5_S216.pdf">HW 5</a></td>
+                     <a href="hw/HW5_S216.pdf">HW 5</a><br><a href="hw/HW5Solutions_S216.pdf">HW 5 solutions</a></td>
                 </tr>
 
             
@@ -486,7 +486,8 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Binomial coefficients. Encoding and decoding.</td>
 		     <td>Rosen 5.4, 5.5 </td>
-                     <td class="it"><a href="hw/HW6_S216.pdf">HW 6</a></td>
+                     <td class="it"><a href="lectures/day12_S216annotated.pptx">Lecture 12</a><br>
+                     <a href="hw/HW6_S216.pdf">HW 6</a></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -494,7 +495,8 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Fixed density binary strings.  </td>
 		     <td> </td>
-                     <td class="it">HW 6 due</td>
+                     <td class="it">HW 6 due<br>
+                     <a href="lectures/day13_S216annotated.pdf">Lecture 13</a></td>
                 </tr>
 
           
@@ -514,7 +516,8 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Fri</td>
                      <td>Second exam. </td>
 		     		 <td> </td>
-                     <td class="it">Exam today, covers graphs and counting.</td>
+                     <td class="it">Exam today, covers graphs and counting.<br>
+                     <a href="exams/PracticeMid1_S216.pdf">Practice midterm</a></td>
                 </tr>
 
 
