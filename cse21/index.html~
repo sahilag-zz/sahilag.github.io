@@ -517,7 +517,8 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Second exam. </td>
 		     		 <td> </td>
                      <td class="it">Exam today, covers graphs and counting.<br>
-                     <a href="exams/PracticeMid2_S216.pdf">Practice midterm</a></td>
+                     <a href="exams/PracticeMid2_S216.pdf">Practice midterm</a><br>
+                     <a href="exams/PracticeMid2Solutions_S216.pdf">Solutions</a></td>
                 </tr>
 
 
@@ -528,7 +529,8 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Mon</td>
                      <td>Intro to probability. Expected value.</td>
 		     		 <td> </td>
-                     <td class="it"></td>
+                     <td class="it"><a href="lectures/day15_S216annotated.pptx">Lecture 15</a><br>
+                     <a href="hw/HW7_S216.pdf">HW 7</a></td>
                 </tr>
                 <tr class="odd">
                      <!-- Second Meeting -->
@@ -536,7 +538,7 @@ ensure that reasonable accommodations can be arranged. For more information, see
                      <td>Tues</td>
                      <td>Variance and concentration. </td>
 		     		 <td> </td>
-                     <td class="it"> HW 7 due</td>
+                     <td class="it"> <a href="lectures/day16_S216annotated.pptx">Lecture 16</a><br>HW 7 due</td>
                 </tr>
 
               
